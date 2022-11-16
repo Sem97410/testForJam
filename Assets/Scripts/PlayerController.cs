@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//CECI EST L'AJOUT D'UNE LIGNE DE CODE
+
 public class PlayerController : MonoBehaviour
 {
     //Player Elements
